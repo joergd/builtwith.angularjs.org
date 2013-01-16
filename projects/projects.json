@@ -825,6 +825,17 @@
         "jQuery","Production","Open Source","AngularJS",
         "CSS3","Twitter BootStrap", "underscore.js", "jQueryUI", "jPlayer"
       ]
+    },
+    {
+      "name": "Hatjitsu",
+      "thumb": "hatjitsu/thumb.png",
+      "desc": "Distributed scrum planning poker for estimating agile projects.",
+      "url": "http://hat.jit.su",
+      "submitter": "joergd",
+      "submissionDate": "2013-01-16",
+      "tags": [
+        "AngularJS","CSS3", "html5", "nodejs", "sockets", "node", "responsive", "realtime", "Realtime", "real-time", "sockets", "agile"
+      ]
     }
   ]
 }
